@@ -1,6 +1,6 @@
 # Conway's Game of Life - Java Implementation
 
-A Java implementation of Conway's Game of Life with a graphical user interface built using Java Swing. This project was developed as part of GMU CS 310 coursework and features a complete simulation with interactive controls, pattern loading, and statistical tracking.
+A Java implementation of Conway's Game of Life with a graphical user interface built using Java Swing. This project was developed as part of AOOP coursework and features a complete simulation with interactive controls, pattern loading, and statistical tracking.
 
 ## Features
 
@@ -133,5 +133,6 @@ This project demonstrates:
 Developed as part of AOOP coursework.
 
 ## License
+
 
 This project is for educational purposes as part of university coursework.
